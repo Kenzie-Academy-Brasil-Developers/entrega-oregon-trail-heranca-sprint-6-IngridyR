@@ -41,4 +41,6 @@ class Doctor extends Traveler {
     
         traveler.isHealthy = true
     }
- }
+}
+
+//testes está no arquivo "teste.js"
